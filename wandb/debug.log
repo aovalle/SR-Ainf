@@ -1,0 +1,2 @@
+2020-06-19 15:19:23,526 DEBUG   MainThread:5884 [wandb_config.py:_load_defaults():132] no defaults not found in config-defaults.yaml
+2020-06-19 15:19:23,793 DEBUG   MainThread:5884 [run_manager.py:__init__():546] Initialized sync for smirl-fep/2j7zyfr0

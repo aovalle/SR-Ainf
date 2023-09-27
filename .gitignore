@@ -1,0 +1,6 @@
+
+*.pyc
+*.eltopo
+*.json
+*.mp4
+scripts/log_log_0/out.txt
